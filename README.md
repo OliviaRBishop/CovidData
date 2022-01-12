@@ -8,4 +8,4 @@
 [Dataset] (https://ourworldindata.org/covid-deaths)
 
 
-![Visualization] (/CovidData/Population%Contracted.png)
+
